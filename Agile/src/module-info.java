@@ -1,0 +1,3 @@
+module Agile {
+	requires junit;
+}
